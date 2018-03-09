@@ -24,12 +24,3 @@ function iLoveTheBeatles(i){
   } while (i<15)
     return abc
 }
-
-function theBeatlesPlay(musician, instrument){
-  const array = []
-  for (let i = 0, l = musicians.length; i < l; i++ ){
-    array.push(`${musician[i]} plays the ${instrument[i]}`)
-  }
-  return array
-}
-
