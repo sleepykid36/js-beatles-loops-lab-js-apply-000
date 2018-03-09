@@ -27,9 +27,9 @@ function iLoveTheBeatles(i){
 
 function theBeatlesPlay(musician, instrument){
   const array = []
-  for (let i = 0, l = musicians.length; i < l; i++ )
+  for (let i = 0, l = musicians.length; i < l; i++ ){
     array.push(`${musician[i]} plays the ${instrument[i]}`)
   }
   return array
 }
->>>>>>> 8e40066f92c5e9c0f8214546beaca57176b0ce13
+
