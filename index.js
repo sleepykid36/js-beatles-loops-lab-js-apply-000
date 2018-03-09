@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 function theBeatlesPlay(musicians, instrument){
   const array = []
   for (let i = 0, l = musicians.length; i < l; i++ ){
@@ -25,7 +24,7 @@ function iLoveTheBeatles(i){
   } while (i<15)
     return abc
 }
-=======
+
 function theBeatlesPlay(musician, instrument){
   const array = []
   for (let i = 0, l = musicians.length; i < l; i++ )
